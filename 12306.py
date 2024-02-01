@@ -13,7 +13,7 @@ class huoche(object):
 	#用户名，密码
 	username = u"xxx"
 	passwd = u"xxx"
-	# cookies值得自己去找, 下面两个分别是沈阳, 哈尔滨
+	# cookies值得自己去找, 下面两个分别是沈阳, 哈尔滨awa
 	starts = u"%u6C88%u9633%2CSYT"
 	ends = u"%u54C8%u5C14%u6EE8%2CHBB"
 	
